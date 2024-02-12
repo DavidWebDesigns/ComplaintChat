@@ -1,0 +1,11 @@
+.chat_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 99vh;
+  width: 99vw;
+}
+iframe{
+  height: 98vh;
+  width: 99vw;
+}
