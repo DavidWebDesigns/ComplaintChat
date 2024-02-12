@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
 
-
+//que es esto?
   return (
     <>
     <div id="chat_container">
